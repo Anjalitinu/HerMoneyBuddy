@@ -25,7 +25,7 @@ Deployment: Streamlit Cloud + GitHub
 🛠️ Installation
 bash
 # Clone repo
-git clone https://github.com/YOURUSERNAME/hermoney-buddy.git
+git clone https://github.com/Anjalitinu/hermoney-buddy.git
 cd hermoney-buddy
 
 # Create virtual environment
