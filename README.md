@@ -1,6 +1,6 @@
 HerMoney Buddy 💖
 AI Financial Advisor Chatbot for Women
-HerMoney Buddy is a beginner-friendly financial chatbot empowering women with personalized investment and loan recommendations. Built for a 9-hour girls-only hackathon, it compares SIPs, FDs, PPF, loans, and more using live APIs with cute UI/UX!
+HerMoney Buddy is a beginner-friendly financial chatbot empowering women with personalized investment and loan recommendations. Built for a girls-only hackathon, it compares SIPs, FDs, PPF, loans, and more using live APIs with cute UI/UX!
 
 ✨ Tech Stack
 text
